@@ -1,3 +1,5 @@
+#Thalia Liu
+#JHED: tliu73
 # Project 1
 Edit **this** file appropriately in your github classroom repository and follow the instructions from the questions. 
 
